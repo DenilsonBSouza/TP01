@@ -1,0 +1,9 @@
+6 8
+Alencar_Santana Murilo_Galdino 1
+Alencar_Santana Tabata_Amaral 2
+Deltan_Dallagnol Murilo_Galdino 1
+Cabo_Gilberto_Silva Capitao_Alberto_Neto 1
+Cabo_Gilberto_Silva Deltan_Dallagnol 2
+Cabo_Gilberto_Silva Murilo_Galdino 1
+Murilo_Galdino Tabata_Amaral 1
+Capitao_Alberto_Neto Deltan_Dallagnol 1
